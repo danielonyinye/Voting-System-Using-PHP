@@ -1,0 +1,79 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding:0;
+	
+}
+#Holder {
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+#Header {
+	height:90px;
+	background-image:url(../img/homepage.jpg);
+	background-repeat:no-repeat;
+	margin-bottom:11px;
+}
+#NavBar {
+	height: 60px;
+	background-color:rgb(13, 13, 13);
+}
+#Content {
+	height:auto;
+	clear:both;
+	overflow:auto;
+}
+#PageHeading {
+	height:auto;
+	padding:11px;
+}
+#ContentLeft{
+	width: 280px;
+	float:left;
+	padding-top:11px;
+	padding-left:11px;
+}
+#ContentRight {
+	width:680px;
+	float:right;	
+}
+#Footer {
+	height:100px;
+}
+h1{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#666;
+	font-weight: lighter;
+}
+h2{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:lighter;
+	color:#666;
+}
+h6{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:lighter;
+	color:#333;
+}
+.StyleTxtField{
+	border: 1px solid #666;
+	border-radius: 6px;
+	width: 200px;
+	height: 35px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-left:6px;
+}
+
+#loginform{
+	border:1px solid silver;
+	border-width: 5px;
+	padding: 10px;
+}
